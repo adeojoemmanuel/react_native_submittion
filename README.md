@@ -4,7 +4,7 @@ using https://coinmarketcap.com/api/documentation/v1/#operation/getV1Cryptocurre
 
 ## View Result
 
-1. download apk from https://www.dropbox.com/s/mhet360wrmddaj2/rninterview-f6b94f02c0984c3ca119d972530e4798-signed.apk?dl=0
+1. download apk from https://drive.google.com/open?id=1SBu3c4M7tii1RtUCZmkBdjF7O8MK4akN
 
 ## Run Project
 
